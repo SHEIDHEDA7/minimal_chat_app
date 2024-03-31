@@ -14,18 +14,17 @@
 <br>
 
 <h2>Project Screenshots:</h2>
-1
-<h4>Logging in &ensp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&emsp;&emsp; Registering User</h4>
-
+<br>
+<h4>Logging in</h4>
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
-
+<h4>Logging in Registering User</h4>
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
 
 <br>
-2
-<h4>List of users &ensp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&emsp; Chat Screen</h4>
+<h4>List of users</h4>
 
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
+<h4>Chat Screen</h4>
 
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
 
