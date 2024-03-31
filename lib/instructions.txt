@@ -1,0 +1,13 @@
+1- Get packages: provider,firebase_core and auth, lottie, cloud_firestore
+2- In main.dart add the theme and let the first page be splash Screen from there to AuthGateway, which redirects to either LogOrReg page or Chat page
+3- Make the Login Page & Reg page UI and link each other through a method in LogOrReg page
+4- Make a file LogOrReg Screen in services from where pages can be toggled
+5- Make a constants file and store all the constants
+6- Get the packages for Firebase initialization
+7- Make auth_service page from where log in, log out, sign up methods are made,
+8- After authentication, go to home page, where all the users are present
+9- In auth_service create Firebase instance and link
+10- From Home screen where all the users are present, on clicking the user go to Chat Screen by creating one.
+11- Now that all users are available create a chat service folder in services, here store all the chat related functions.
+12- Make Model folder and add the message model file which contains the model of message how it should be
+13- For chat bubble of each message make a bubble file in components
