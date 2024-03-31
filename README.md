@@ -11,13 +11,12 @@
 - Provider State management
 <h4>
 </h3>
-<br>
 
 <h2>Project Screenshots:</h2>
 <br>
 <h4>Logging in</h4>
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
-<h4>Logging in Registering User</h4>
+<h4>Registering User</h4>
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
 
 <br>
@@ -28,9 +27,10 @@
 
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
 
-3
-<h4>Sending Message&ensp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&ensp; &emsp;&ensp; Recieving Messages</h4>
+
+<h4>Sending Message</h4>
 
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
 
+<h4>Recieving Messages</h4>
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
