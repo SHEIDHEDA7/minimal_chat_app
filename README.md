@@ -12,9 +12,8 @@
 <h4>
 </h3>
 <h2>Project Screenshots:</h2>
-<br>
 <h4>Logging in</h4>
-<img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
+![alt text](https://github.com/[SHEIDHEDA7]/sc/Screenshot 2024-03-31 at 19.57.05.png)
 <h4>Registering User</h4>
 <img src="https://picsum.photos/200" alt="project-screenshot" width="250" height="400/">
 <br>
